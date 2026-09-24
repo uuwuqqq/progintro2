@@ -1,2 +1,2 @@
-# new repository was not created
+# zde byl zmenen text
 # under development
